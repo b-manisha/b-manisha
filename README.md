@@ -25,6 +25,8 @@ me.say_hi()
 
 - 📫 Reach me at **manisham.bhattacharjee@gmail.com**
 
+- ⚡ Fun fact: **I use tabs over spaces**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/manishamb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/manishamb/" height="40" width="40" /></a>
