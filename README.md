@@ -51,8 +51,8 @@ me.say_hi()
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=b-manisha&show_icons=true&locale=en&layout=compact" alt="b-manisha" /></p>
 <div align = "left">
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=b-manisha&show_icons=true&locale=en" alt="b-manisha"/></p>
-</div>
-<div align="left">
+
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=b-manisha&" alt="b-manisha" /></p>
 </div>
 
