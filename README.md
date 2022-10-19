@@ -7,7 +7,7 @@ class BusinessAnalyst:
         self.name = "Manisha Bhattacharjee"
         self.role = "Business Analyst"
         self.description = "I crunch data to provide actionable insights which helps in decision making"
-        self.language_spoken = ["en_US"]
+        self.language_spoken = ["English","Hindi","Bengali"]
 
     def say_hi(self):
         print("Thanks for dropping by, hope you find some of my work interesting.")
