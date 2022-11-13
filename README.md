@@ -6,7 +6,7 @@ class BusinessAnalyst:
     def __init__(self):
         self.name = "Manisha Bhattacharjee"
         self.role = "Business Analyst"
-        self.description = "I crunch data to provide actionable insights which helps in decision making"
+        self.description = "I break data to bake insights"
         self.language_spoken = ["English","Hindi","Bengali"]
 
     def say_hi(self):
