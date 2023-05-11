@@ -21,7 +21,7 @@ me.say_hi()
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=b-manisha&label=Profile%20views&color=0e75b6&style=flat" alt="b-manisha" /> </p>
 
-- 🌱 I’m currently learning - **Unsupervised Machine Learning, Statistics**
+- 🌱 I’m currently learning - **Unsupervised Machine Learning, Inferential Statistics**
 
 - 📫 Reach me at **manisham.bhattacharjee@gmail.com**
 
