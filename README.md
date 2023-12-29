@@ -1,7 +1,7 @@
 <h1 align="center">Hello there 👋 </h1>
 
 ```
-class BusinessAnalyst:
+class Analyst:
 
     def __init__(self):
         self.name = "Manisha Bhattacharjee"
@@ -13,7 +13,7 @@ class BusinessAnalyst:
         print("Thanks for dropping by, hope you find some of my work interesting.")
 
 
-me = BusinessAnalyst()
+me = Analyst()
 me.say_hi()
 ```
 
