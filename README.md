@@ -5,9 +5,9 @@ class Analyst:
 
     def __init__(self):
         self.name = "Manisha Bhattacharjee"
-        self.role = "Business Analyst"
+        self.role = "Senior Data Analyst"
         self.description = "I break data to bake insights"
-        self.language_spoken = ["English","Hindi","Bengali"]
+        self.language_spoken = ["English","Hindi","Bengali","German"]
 
     def say_hi(self):
         print("Thanks for dropping by, hope you find some of my work interesting.")
@@ -21,7 +21,7 @@ me.say_hi()
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=b-manisha&label=Profile%20views&color=0e75b6&style=flat" alt="b-manisha" /> </p>
 
-- 🌱 I’m currently learning - **Unsupervised Machine Learning, Inferential Statistics**
+- 🌱 I’m currently learning - **Data Engineering, Inferential Statistics**
 
 - 📫 Reach me at **manisham.bhattacharjee@gmail.com**
 
